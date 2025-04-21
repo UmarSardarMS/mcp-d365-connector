@@ -8,7 +8,7 @@ This project demonstrates how to build a custom Model Context Protocol (MCP) ser
 ## 🔧 Architecture Overview
 
 ![Architecture Diagram]
-![alt text](image.png)
+![alt text](Flow-2.png)
 
 ### Components:
 - **Client (User)**: Sends natural language queries.
